@@ -1,0 +1,16 @@
+Tracker        Vidéo                    Frame de Perte Raison    
+=================================================================
+BOOSTING       big_face_test.mp4        56             Manuel    
+MIL            big_face_test.mp4        139            Fin       
+KCF            big_face_test.mp4        58             Perte     
+TLD            big_face_test.mp4        56             Perte     
+MEDIANFLOW     big_face_test.mp4        56             Perte     
+MOSSE          big_face_test.mp4        87             Perte     
+CSRT           big_face_test.mp4        139            Fin       
+BOOSTING       small_face_test.mp4      147            Manuel    
+MIL            small_face_test.mp4      188            Manuel    
+KCF            small_face_test.mp4      191            Manuel    
+TLD            small_face_test.mp4      63             Manuel    
+MEDIANFLOW     small_face_test.mp4      869            Fin       
+MOSSE          small_face_test.mp4      396            Manuel    
+CSRT           small_face_test.mp4      869            Fin       

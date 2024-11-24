@@ -55,11 +55,6 @@ Based on the tests conducted, the **CSRT (Discriminative Correlation Filter with
 - Stability across different FPS.
 - High precision in maintaining the tracking box during occlusions and fast movements.
 
----
-
-## Results Summary
-
-The CSRT tracker outperformed other algorithms across all test scenarios, making it the best choice for robust and reliable object tracking.
 
 
 
